@@ -12,19 +12,21 @@
 - https://atlavox.com/products/antenna-cable-rg178-ipex-f-to-n-type-f-waterproof-15cm
 
 ## Antenna
-
+- https://www.amazon.com/gp/aw/d/B0G6MQVR9N?psc=1&ref=ppx_pop_mob_b_asin_title
 
 ## Solar
-
+- https://www.amazon.com/gp/aw/d/B09P4PKKPQ?psc=1&ref=ppx_pop_mob_b_asin_title
+- https://www.amazon.com/gp/aw/d/B0FJFLTXBS?psc=1&ref=ppx_pop_mob_b_asin_title
 
 ## Sensors
-### Optional, only for meshtastic nodes
+### Optional
+- https://www.amazon.com/gp/aw/d/B0GQLBZRKZ?psc=1&ref=ppx_pop_mob_b_asin_title
 
 
 ## Node
-
+- https://www.amazon.com/gp/aw/d/B0CHKZJK9C?psc=1&ref=ppx_pop_mob_b_asin_title
 
 ## Battery
-
+- https://www.amazon.com/gp/aw/d/B0GQL2T8L6?psc=1&ref=ppx_pop_mob_b_asin_title
 
 ## Hardware
