@@ -30,3 +30,12 @@
 - https://www.amazon.com/gp/aw/d/B0GQL2T8L6?psc=1&ref=ppx_pop_mob_b_asin_title
 
 ## Hardware
+- M3*12 screws
+- M3*8 screws
+- M3 Washers
+- M3 Nuts
+- M2.5 screws
+- M2.5 standoffs
+- 1/4"*3/4" Bolts
+- 1/4" Washers
+- 1/4" Nuts
