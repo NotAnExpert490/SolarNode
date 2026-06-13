@@ -39,8 +39,9 @@ Any similar antenna with an N-type connector will work.
 - https://www.amazon.com/dp/B0GMWWV5H8
 
 ## connectors
-- https://www.amazon.com/dp/B0C1KH7LDZ
-- https://www.amazon.com/dp/B0C1K32G9K
+- ~~https://www.amazon.com/dp/B0C1KH7LDZ~~
+- ~~https://www.amazon.com/dp/B0C1K32G9K~~
+These connectors will not work. Chat GPT lead me astray. Sorry if anyone bought them as well.
 
 
 ## Hardware
