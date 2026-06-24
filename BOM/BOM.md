@@ -42,6 +42,9 @@ Any similar antenna with an N-type connector will work.
 - ~~https://www.amazon.com/dp/B0C1KH7LDZ~~
 - ~~https://www.amazon.com/dp/B0C1K32G9K~~
 These connectors will not work. Chat GPT lead me astray. Sorry if anyone bought them as well.
+- https://www.amazon.com/dp/B09CTB9F3Q/ref=sspa_dk_detail_8 (These will work. You'll need a 2 pin for the solar and a 4 pin for the sensor)
+
+
 
 
 ## Hardware
@@ -49,8 +52,8 @@ These connectors will not work. Chat GPT lead me astray. Sorry if anyone bought 
 - M3*8 screws
 - M3 Washers
 - M3 Nuts
-- M2.5 screws
-- M2.5 standoffs
+- M2.5 screws (Should come with RAK)
+- M2.5 standoffs (Should come with RAK)
 - 1/4"*3/4" Bolts
 - 1/4" Washers
 - 1/4" Nuts
