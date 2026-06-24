@@ -42,7 +42,8 @@ Any similar antenna with an N-type connector will work.
 - ~~https://www.amazon.com/dp/B0C1KH7LDZ~~
 - ~~https://www.amazon.com/dp/B0C1K32G9K~~
 These connectors will not work. Chat GPT lead me astray. Sorry if anyone bought them as well.
-- https://www.amazon.com/dp/B09CTB9F3Q/ref=sspa_dk_detail_8 (These will work. You'll need a 2 pin for the solar and a 4 pin for the sensor)
+- https://www.amazon.com/Aviation-Socket-Screw-Female-Connector/dp/B07JX99GWJ/ref=sxin_19_pa_sp_search_thematic_sspa (2 pin for solar)
+- https://www.amazon.com/DGZZI-5Pairs-Circular-Aviation-Connector/dp/B07PQF2RDL/ref=sxin_19_pa_sp_search_thematic_sspa (4 pin for sensor)
 
 
 
